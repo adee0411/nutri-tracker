@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd8c5005.css",
+    "main.js": "/static/js/main.ed6ef479.js",
+    "static/js/453.1c53e54b.chunk.js": "/static/js/453.1c53e54b.chunk.js",
+    "static/media/breakfast.png": "/static/media/breakfast.f7687a81a1200a7eb79c.png",
+    "static/media/snack.png": "/static/media/snack.d21b95b5dca929895dd4.png",
+    "static/media/lunch.png": "/static/media/lunch.c77978e50b8fff3ab91c.png",
+    "static/media/undraw_page-not-found_6wni.svg": "/static/media/undraw_page-not-found_6wni.dbab4437e895b995e896588c3ef2eb5c.svg",
+    "static/media/undraw_fitness-tracker_y5q5 (3).svg": "/static/media/undraw_fitness-tracker_y5q5 (3).dae37b371dd492eb7c098dc2b9aab426.svg",
+    "static/media/undraw_breakfast_rgx5 (1).svg": "/static/media/undraw_breakfast_rgx5 (1).bcfb2d69c3fbed4798d29cae88e2a2d5.svg",
+    "static/media/undraw_breakfast_psiw.svg": "/static/media/undraw_breakfast_psiw.4fe40a466c273cdcce9f92c2df57efa2.svg",
+    "static/media/undraw_athletes-training_koqa.svg": "/static/media/undraw_athletes-training_koqa.5be836515a53c61d041ad488218eab87.svg",
+    "static/media/poppins-latin-400-normal.woff": "/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/poppins-latin-400-normal.woff2": "/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/undraw_note-list_47ij (1).svg": "/static/media/undraw_note-list_47ij (1).33ce9ce55d08391cfc7184c0e55fddbf.svg",
+    "static/media/poppins-latin-ext-400-normal.woff": "/static/media/poppins-latin-ext-400-normal.cf7e1ed83eb19f7b1ea6.woff",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
+    "static/media/snack.svg": "/static/media/snack.601d638ec0cc9a8d9e938e78457ab714.svg",
+    "static/media/lunch.svg": "/static/media/lunch.bbf243f7af1e9b6ed78451145b31fce4.svg",
+    "static/media/breakfast.svg": "/static/media/breakfast.a9eb4abd86d2d90f89227db12e37eab9.svg",
+    "static/media/logo.svg": "/static/media/logo.fc3dd193fdd87a855dfb841e2f3a7c45.svg",
+    "static/media/burn.svg": "/static/media/burn.a80cc216509fadacf0e1ae5fed243e2e.svg",
+    "index.html": "/index.html",
+    "main.bd8c5005.css.map": "/static/css/main.bd8c5005.css.map",
+    "main.ed6ef479.js.map": "/static/js/main.ed6ef479.js.map",
+    "453.1c53e54b.chunk.js.map": "/static/js/453.1c53e54b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd8c5005.css",
+    "static/js/main.ed6ef479.js"
+  ]
+}
